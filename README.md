@@ -1,6 +1,6 @@
 # 💎 El Habib
 
-### Automation & DevOps | Containerized Projects | Rapid Setup
+### Automation & data | Containerized Projects | Rapid Setup
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
